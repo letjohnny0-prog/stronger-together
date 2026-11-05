@@ -16,3 +16,9 @@ Our Mission
 - Create positive change.
 
 Together We Are Stronger! ❤️
+## About Stronger Together
+
+Stronger Together is a project built to bring people together, encourage support, and inspire positive change.
+
+### Our Mission
+To build a supportive community where everyone feels valued and encouraged.
