@@ -28,3 +28,10 @@ To build a supportive community where everyone feels valued and encouraged.
 - Encourage teamwork and unity.
 - Inspire positive change.
 - Help people grow together.
+## Our Vision
+
+To create a united world where people support one another, share opportunities, and achieve more together.
+
+## Join Us
+
+Together, we are stronger. Every person matters, and every contribution counts.
