@@ -22,3 +22,9 @@ Stronger Together is a project built to bring people together, encourage support
 
 ### Our Mission
 To build a supportive community where everyone feels valued and encouraged.
+## Our Goals
+
+- Build a supportive community.
+- Encourage teamwork and unity.
+- Inspire positive change.
+- Help people grow together.
